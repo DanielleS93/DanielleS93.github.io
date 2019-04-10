@@ -1457,6 +1457,46 @@ body {
   border-radius: 50%;
   content: '✓';
 }
+.cid-rnfIhlN2mG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnfIhlN2mG h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-rnfIhlN2mG p {
+  color: #767676;
+}
+.cid-rnfIhlN2mG .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rnfIhlN2mG .card-wrapper .card-box {
+  padding: 2rem 2rem 2rem 0;
+  width: 100%;
+}
+.cid-rnfIhlN2mG .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
 .cid-rnfvPMPZPs {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1638,46 +1678,6 @@ body {
   .cid-rnfDFQstRe .panel-item .card-img {
     padding: 0;
     padding-bottom: 1rem;
-  }
-}
-.cid-rnfIhlN2mG {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rnfIhlN2mG h4 {
-  width: 85%;
-  font-weight: 500;
-  margin-bottom: 0;
-}
-.cid-rnfIhlN2mG p {
-  color: #767676;
-}
-.cid-rnfIhlN2mG .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
-}
-.cid-rnfIhlN2mG .card-wrapper .card-box {
-  padding: 2rem 2rem 2rem 0;
-  width: 100%;
-}
-.cid-rnfIhlN2mG .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line {
-  width: 85%;
-}
-@media (max-width: 767px) {
-  .cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-rnfIhlN2mG .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
   }
 }
 .cid-rmATlecGkr {
