@@ -1422,10 +1422,10 @@ body {
 .cid-rmAVNQYIky {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #1cb447;
 }
 .cid-rmAVNQYIky H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rmAVKRaVTk {
   padding-top: 60px;
@@ -1454,7 +1454,7 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #0f7699;
+  background: #1cb447;
   width: 25px;
   height: 25px;
   border-radius: 50%;
