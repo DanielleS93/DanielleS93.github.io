@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "Danielle USMLE",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#ffffff",
-        "secondaryColor": "#ff3366",
+        "secondaryColor": "#1cb447",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
         "warningColor": "#232323",
@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#f70404"
+        "#f70404",
+        "#1cb447"
       ]
     },
     "path": "@PROJECT_PATH@",
