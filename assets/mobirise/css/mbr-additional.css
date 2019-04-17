@@ -1393,10 +1393,10 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #ffffff;
 }
-.cid-rmAQqr31QD {
-  background-image: url("../../../assets/images/ucd-image-419x265.jpg");
+.cid-rnUA4EzGrU {
+  background-image: url("../../../assets/images/background1.jpg");
 }
-.cid-rmAQqr31QD .icons-media-container {
+.cid-rnUA4EzGrU .icons-media-container {
   display: flex;
   -webkit-justify-content: center;
   justify-content: center;
@@ -1406,21 +1406,18 @@ body {
   flex-wrap: wrap;
   padding-top: 4rem;
 }
-.cid-rmAQqr31QD .icons-media-container .mbr-iconfont {
+.cid-rnUA4EzGrU .icons-media-container .mbr-iconfont {
   font-size: 96px;
   color: #ffffff;
 }
-.cid-rmAQqr31QD .icons-media-container .icon-block {
+.cid-rnUA4EzGrU .icons-media-container .icon-block {
   padding-bottom: 1rem;
 }
-.cid-rmAQqr31QD .mbr-text {
+.cid-rnUA4EzGrU .mbr-text {
   color: #ffffff;
 }
-.cid-rmAQqr31QD .card {
+.cid-rnUA4EzGrU .card {
   padding-bottom: 1.5rem;
-}
-.cid-rmAQqr31QD B {
-  color: #ffffff;
 }
 .cid-rmAVNQYIky {
   padding-top: 60px;
@@ -1697,7 +1694,7 @@ body {
 .cid-rmATlecGkr {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-rmATlecGkr .mbr-text {
   color: #767676;
