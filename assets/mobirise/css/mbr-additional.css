@@ -1394,7 +1394,7 @@ body {
   border-top-color: #232323;
 }
 .cid-rmAQqr31QD {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/ucd-image-419x265.jpg");
 }
 .cid-rmAQqr31QD .icons-media-container {
   display: flex;
@@ -1420,12 +1420,15 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-rmAQqr31QD B {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rmAVNQYIky {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rmAVNQYIky H2 {
+  color: #ffffff;
 }
 .cid-rmAVKRaVTk {
   padding-top: 60px;
@@ -1454,11 +1457,14 @@ body {
   line-height: 20px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #0f7699;
   width: 25px;
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-rmAVKRaVTk .mbr-text UL {
+  color: #232323;
 }
 .cid-rnfIhlN2mG {
   padding-top: 90px;
