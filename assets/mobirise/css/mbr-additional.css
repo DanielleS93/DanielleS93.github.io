@@ -1469,8 +1469,8 @@ body {
   background-color: #efefef;
 }
 .cid-rnUKxr4JeC {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #efefef;
 }
 .cid-rnUKxr4JeC .socicon-bg-facebook {
@@ -1751,6 +1751,11 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-rozF0FFX7f {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-rmATlecGkr {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -1806,12 +1811,12 @@ body {
 .cid-rozzXsJBf7 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-rmASufIO04 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rmASufIO04 .socicon-bg-facebook {
   background: #3e5b98;
@@ -1899,13 +1904,13 @@ body {
   }
 }
 .cid-rnfLzsRD0d {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rnUKxr4JeC {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #efefef;
 }
 .cid-rnUKxr4JeC .socicon-bg-facebook {
@@ -1947,4 +1952,9 @@ body {
   .cid-rnUKxr4JeC .btn {
     font-size: 20px !important;
   }
+}
+.cid-rozEXGlG9q {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
