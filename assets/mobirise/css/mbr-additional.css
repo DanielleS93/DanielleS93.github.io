@@ -1526,6 +1526,41 @@ body {
 .cid-rmATlecGkr div.b {
   padding-top: 2rem;
 }
+.cid-rozo31u0HB {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rozo31u0HB .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rozo31u0HB .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-rozo31u0HB .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-rozo31u0HB .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-rozo31u0HB .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rozo31u0HB .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rozo31u0HB .iconfont-wrapper {
+    display: none;
+  }
+}
 .cid-rmASufIO04 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1570,6 +1605,11 @@ body {
   .cid-rmASufIO04 .btn {
     font-size: 20px !important;
   }
+}
+.cid-rozn9xAXVw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-rnfIhlN2mG {
   padding-top: 90px;
