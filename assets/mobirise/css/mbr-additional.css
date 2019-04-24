@@ -1519,12 +1519,12 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rmATlecGkr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #1cb447;
 }
 .cid-rmATlecGkr .mbr-text {
-  color: #767676;
+  color: #465052;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -1535,8 +1535,8 @@ body {
   text-align: left;
 }
 .cid-rozo31u0HB {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rozo31u0HB .title {
@@ -1570,9 +1570,14 @@ body {
     display: none;
   }
 }
+.cid-rozzXsJBf7 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
+}
 .cid-rmASufIO04 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rmASufIO04 .socicon-bg-facebook {
